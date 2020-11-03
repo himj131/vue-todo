@@ -1,6 +1,5 @@
 # vue-todo
-
-> A Vue.js project
+Vue 로 만드는 TODO 관리 앱
 
 ## Build Setup
 
@@ -14,5 +13,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
